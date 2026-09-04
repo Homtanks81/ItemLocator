@@ -14,7 +14,9 @@ A lightweight World of Warcraft addon for Vanilla and Mysteries of Azeroth expan
 
 ## How to Use
 * Open any location items on your character are located to populate the addon directory: Bags, Bank, Mailbox or Character Sheet.
-*  **Commands** il scan — force an immediate rescan (bags, plus bank if it's open) /il reset — wipe all saved data and start over
+*  **Commands:**
+   /il scan — force an immediate rescan (bags, plus bank if it's open)
+   /il reset — wipe all saved data and start over
 
 ## Feedback & Bug Reports
 If you encounter any bugs or have feature suggestions, please open an issue on the **Issues** tab above.
